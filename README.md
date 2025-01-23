@@ -24,6 +24,15 @@ A cross-platform mobile application built with React Native, designed to display
 <img src="ss/Screenshot 2025-01-23 103019.png"><br>
 <img src = "ss/Screenshot 2025-01-23 103124.png">
 
-
-
+<br>
+<ul> <b>Usage</b>
+  <li>Modify assets/mockData.json to update teacher and course data</li>
+  <li>Use the search bar to filter courses by name or ID.</li>
+</ul>
+<br>
+<ul><b>Technologies Used</b>
+<li>React Native</li>
+<li>Expo CLI</li>
+<li>Local JSON for data</li>
+</ul>
 
