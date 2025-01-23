@@ -21,7 +21,9 @@ A cross-platform mobile application built with React Native, designed to display
 <br>
 <br>
 <b>Screenshots</b><br>
-<img src="ss/Screenshot 2025-01-23 103019.png">
+<img src="ss/Screenshot 2025-01-23 103019.png"><br>
+<img src = "ss/Screenshot 2025-01-23 103124.png">
+
 
 
 
