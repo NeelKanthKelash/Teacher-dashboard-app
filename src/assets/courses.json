@@ -1,0 +1,14 @@
+{
+    "teacher": {
+      "name": "John Doe",
+      "id": "T12345",
+      "email": "johndoe@university.com",
+      "department": "Computer Science",
+      "courses": [
+        { "id": "C001", "name": "Data Structures", "code": "CS101", "semester": "Fall" },
+        { "id": "C002", "name": "Algorithms", "code": "CS102", "semester": "Fall" },
+        { "id": "C003", "name": "Operating Systems", "code": "CS201", "semester": "Spring" }
+      ]
+    }
+  }
+  

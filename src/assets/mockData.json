@@ -1,0 +1,60 @@
+{
+    "teacher": {
+        "name": "John Doe",
+        "id": "T12345",
+        "email": "john.doe@example.com",
+        "department": "Computer Science"
+      },
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Computer Science",
+        "description": "Basics of programming and computer science."
+      },
+      {
+        "id": 2,
+        "title": "Data Structures",
+        "description": "Learn about arrays, linked lists, trees, and more."
+      },
+      {
+        "id": 3,
+        "title": "Algorithms",
+        "description": "Focus on problem-solving techniques and algorithms."
+      },
+      {
+        "id": 4,
+        "title": "Software Engineering",
+        "description": "Principles of software development."
+      },
+      {
+        "id": 5,
+        "title": "Database Systems",
+        "description": "Introduction to databases and SQL."
+      },
+      {
+        "id": 6,
+        "title": "Linear Algebra",
+        "description": "Study of vector spaces and linear transformations.",
+        "teacher_id": "T67890"
+      },
+      {
+        "id": 7,
+        "title": "Calculus I",
+        "description": "Foundational course on differentiation and integration.",
+        "teacher_id": "T67890"
+      },
+      {
+        "id": 8,
+        "title": "Quantum Mechanics",
+        "description": "Study of particles at the atomic level.",
+        "teacher_id": "T11223"
+      },
+      {
+        "id": 9,
+        "title": "Thermodynamics",
+        "description": "Principles of heat and energy transfer.",
+        "teacher_id": "T11223"
+      }
+    ]
+  }
+  
