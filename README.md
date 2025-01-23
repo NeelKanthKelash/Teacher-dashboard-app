@@ -4,7 +4,7 @@
 
 A cross-platform mobile application built with React Native, designed to display teacher details and a dynamic course list. The app includes real-time search functionality for filtering courses by name or ID and features a responsive, user-friendly interface.
 
-<ul>**Features**
+<ul><b>Features</b>
 
 <li>Teacher Dashboard: Displays teacher's name, ID, email, and department.</li>
 
@@ -13,10 +13,15 @@ A cross-platform mobile application built with React Native, designed to display
 <li>Real-Time Search: Dynamically filters courses by name or ID.</li>
 
 <li>Responsive Design: Modern UI/UX principles with intuitive styling.</li></ul>
+<br>
 
+<ul><b>Installation and Setup</b>
+<li>Install dependencies: <mark> npm install</mark></li>
+<li>Start the application:<mark> npm start<mark></li></ul>
+<br>
+<br>
+<b>Screenshots</b><br>
 
-**Installation and Setup**
-Install dependencies:  "&nbsp" npm install
 
 
 
